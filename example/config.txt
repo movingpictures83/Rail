@@ -1,0 +1,2 @@
+Prefix plugins/Rail/example/
+Plugin Rail inputfile parameters.txt outputfile rail.csv

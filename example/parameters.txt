@@ -1,0 +1,5 @@
+fullCov	regionmatrix.fullCov.rds
+regionMatrix	regionmatrix.rds
+L	76
+cutoff	80
+fileDir	AMY/
